@@ -1,8 +1,8 @@
 # RedisCaching
-This repository includes variety of methods and technology that will be mentioned in the above of this readme file. 
-This API perform crud operation, however the redis will cached all information before post or get to the database. 
-Redis is accessible from docker. Furthermore, there is a zip file that you can downloaded and run the redis server.
-You can download Redis by below link.
+This repository includes a variety of methods and technologies that will be mentioned in the above readme file. 
+This API performs crud operation, however, the Redis will cache all information before posting or getting to the database. 
+Redis is accessible from docker. Furthermore, there is a zip file that you can download and run on the Redis server.
+You can download Redis by the below link.
 <code>https://github.com/microsoftarchive/redis/releases/tag/win-3.0.504</code>
 
 # Technlologies
